@@ -7,6 +7,6 @@ La misma que tambien está administrada por un repositorio "DriverResultReposito
 Aunado a esto, el código incluye varias funciones y estructuras adicionales. En la aplicación JavaFX, la organización de los componentes se realiza mediante **HBox** y **Vbox**, que permiten un diseño ordenado y responsivo de la interfaz de usuario. El **TableView** se configura dinámicamente con datos provenientes de la base de datos, lo que permite una actualización en tiempo real según la selección del año.
 ![image](https://github.com/Yadira-Quinde/Tareas5-Programacion/assets/168947646/a6eec646-cd48-4a3e-97e6-ab436c51c9e0)
 
-###Consulta del año 1995 y 2005
+### Consulta del año 1995 y 2005
 ![image](https://github.com/Yadira-Quinde/Tareas5-Programacion/assets/168947646/d47f8022-e146-40da-b7b3-d4695fe397a8)
 ![image](https://github.com/Yadira-Quinde/Tareas5-Programacion/assets/168947646/0171928a-5f21-4e24-8ce4-08bf71166712)
